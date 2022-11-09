@@ -1,3 +1,5 @@
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Alicem
+
 ![Status]( https://github-readme-stats.vercel.app/api?username=alicemkyn&show_icons=true)
 
 
