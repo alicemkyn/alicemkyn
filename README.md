@@ -1,4 +1,5 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Alicem
+## SWE , Back-end Developer, Computer Engineer
 :zap: My Skills: 
 [![My Skills](https://skills.thijs.gg/icons?i=py,html,css,git,docker,mongodb,postgres,md&theme=light)]()
 
