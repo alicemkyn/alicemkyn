@@ -2,7 +2,7 @@
 ### SWE , Back-end Developer, Computer Engineer
 :zap: My Skills:
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,html,css,git,docker,django,mongodb,postgres,md&theme=light)]()
+[![My Skills](https://skills.thijs.gg/icons?i=py,django,html,css,git,docker,mongodb,postgres,md&theme=light)]()
 
 :mailbox: How to reach me:
 
