@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm ***Alicem***
-### ***SWE , Back-end Developer, Computer Engineer***
+### ***SWE , Back-end Developer, Computer Engineer(BASc-Ukraine), Data Scientist(MSCS-USA)
 :zap: **My Skills:**
 ---
 [![My Skills](https://skillicons.dev/icons?i=py,django,html,css,bootstrap,git,docker,mongodb,postgres,mysql,md,regex,selenium,sklearn&theme=light)]()
