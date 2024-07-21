@@ -2,7 +2,7 @@
 ### ***SWE , Back-end Developer, Computer Engineer***
 :zap: **My Skills:**
 ---
-[![My Skills](https://skillicons.dev/icons?i=py,django,html,css,bootstrap,git,docker,mongodb,postgres,mysql,md,scikitlearn&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=py,django,html,css,bootstrap,git,docker,mongodb,postgres,mysql,md,regex,selenium,sklearn&theme=light)]()
 
 :mailbox: **How to reach me:**
 ---
