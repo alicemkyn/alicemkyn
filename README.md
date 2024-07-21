@@ -2,7 +2,7 @@
 ### ***SWE , Back-end Developer, Computer Engineer(BASc-Ukraine), Data Scientist(MSCS-USA)
 :zap: **My Skills:**
 ---
-[![My Skills](https://skillicons.dev/icons?i=py,django,html,css,bootstrap,git,docker,mongodb,postgres,postman,neovim,mysql,md,regex,selenium,sklearn&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=py,django,html,css,bootstrap,git,github,pycharm,vscode,docker,mongodb,postgres,postman,neovim,mysql,md,regex,selenium,sklearn&theme=light)]()
 
 :mailbox: **How to reach me:**
 ---
